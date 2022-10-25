@@ -1,1 +1,0 @@
-{"apiVersion":"v1","data":{"protected_net_gw":"192.168.20.100","protected_private_net_cidr":"192.168.10.0/24"},"kind":"ConfigMap","metadata":{"labels":{"emco/deployment-id":"7515744901765394440-sink"},"name":"sink-configmap","namespace":"default"}}
